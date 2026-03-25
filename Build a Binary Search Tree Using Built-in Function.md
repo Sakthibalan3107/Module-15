@@ -22,8 +22,7 @@ To write a Python program to build a binary search tree using a built-in functio
 ## PROGRAM:
 
 ```
-#Reg.No: 212222060292
-#Name: Vijay Aravind S
+
 #Add Your Code Here
 from binarytree import Node
 root=Node(1)
